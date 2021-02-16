@@ -9,5 +9,10 @@ Up to 201/24/2021 the finised reports are:
  3) C03, Supewrvised Learning - Classification (final_assigment_c03_supervised_learning_classification.pdf)
  4) C04, Unsupervised Learning (final_assigmnet_c04_unsupervised_learning.pdf)
  5) C05, Deep Learning and Reinforcement (final_assignment_C05_deep_learning.pdf)
+ 6) C06, Specialized Models: Time Series and Survival Analysis (Final_assignment_C06_Time_Series.pdf)
  
- In progress(08/Feb/2021)
+ Completed(16/Feb/2021)
+ 
+ https://www.coursera.org/account/accomplishments/professional-cert/U9CEPVUSXAFH
+ 
+ https://www.youracclaim.com/earner/earned/badge/d4f2619e-7764-48c9-8538-6517058493f9
