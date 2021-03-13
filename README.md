@@ -3,7 +3,7 @@
 This repository is related to the __final assigments__ done during the IBM Machine Learning Professional Certificate. 
 THe certificate consists on __six courses__ and at the end of each one the instructors ask to write a __report__ rather than present the code about one (or more) a model(s) learned during the course.
 
-The finised reports are:
+The finished reports are:
 
  1) C01, Exploratory Data Analysis for Machine Learning. (Final_assigment_C01_EDA_for_machine_learning.pdf)
  2) C02, Supervised Learning - Regression (final_assigment_c02_supervised_learning_regression.pdf)
